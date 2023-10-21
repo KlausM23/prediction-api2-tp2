@@ -1,1 +1,1 @@
-# prediction-api2-tp2
+# prediction-api-tp2
